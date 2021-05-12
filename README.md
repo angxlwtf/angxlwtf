@@ -1,8 +1,8 @@
 ## Hey! 👋
-Im angxl, a "developer" who thinks hes very good at coding. But in reality, im horrible.
+Im angxl, im the co-founder of All Of Us, and I like to code in c#
 
 ## About me ❕
-I love cats, and love to code in C# and C++! Im currently working on Launchpad with a few of my friends, that can be found in the All Of Us discord. (https://discord.gg/TWFfcgVvYd)
+I love cats, and love to code in C#, C++, Node.js, and Java!
 
 ## My socials 😎
-Discord: angxl wtf#8738 
+Discord: angxl wtf#2965
