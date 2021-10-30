@@ -4,7 +4,7 @@
 
 ## **I am Angxl**
 - 🌱 I’m currently learning **JavaScript**.
-- 🔭 I’m currently working on **Astral*.
+- 🔭 I’m currently working on **Astral**.
 - 🎮 **Among Us Modding** is currently one of my main hobbies.
 - 😀 Pronouns: He/Him
 - ⚡ Fun fact: I used to own **All Of Us**
